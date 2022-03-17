@@ -11,7 +11,7 @@
   inputs.src-genode-v20_11_1.owner = "~ehmry";
   inputs.src-genode-v20_11_1.ref   = "refs/tags/v20.11.1";
   inputs.src-genode-v20_11_1.repo  = "nim_genode";
-  inputs.src-genode-v20_11_1.type  = "other";
+  inputs.src-genode-v20_11_1.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 
