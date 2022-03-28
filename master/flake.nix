@@ -11,7 +11,6 @@
   inputs.src-genode-master.ref   = "master";
   inputs.src-genode-master.owner = "~ehmry";
   inputs.src-genode-master.repo  = "nim_genode";
-  inputs.src-genode-master.dir   = "";
   inputs.src-genode-master.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
