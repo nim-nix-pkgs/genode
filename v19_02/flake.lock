@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-genode-master": "src-genode-master"
+        "src-genode-v19_02": "src-genode-v19_02"
       }
     },
-    "src-genode-master": {
+    "src-genode-v19_02": {
       "flake": false,
       "locked": {
-        "lastModified": 1616245349,
-        "narHash": "sha256-aNNNqQ4J3H2r0aiAVi02/gi0T1bRmhy9eADel3WL6EQ=",
+        "lastModified": 1548084784,
+        "narHash": "sha256-/sS7FKLGi1Q35GXvhyjMP7gVPie2si+Nch+PAQxnU0M=",
         "owner": "~ehmry",
         "repo": "nim_genode",
-        "rev": "db72973355a637d0bf25e95551456a2ec52357b9",
+        "rev": "d4d2291bdc339304f11454052f452c3e17dac6a4",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "master",
+        "ref": "v19.02",
         "repo": "nim_genode",
         "type": "sourcehut"
       }
