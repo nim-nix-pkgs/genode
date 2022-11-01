@@ -39,10 +39,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-genode-master": "src-genode-master"
+        "src-genode-20221020": "src-genode-20221020"
       }
     },
-    "src-genode-master": {
+    "src-genode-20221020": {
       "flake": false,
       "locked": {
         "lastModified": 1666294699,
@@ -54,7 +54,7 @@
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "master",
+        "ref": "20221020",
         "repo": "nim_genode",
         "type": "sourcehut"
       }
